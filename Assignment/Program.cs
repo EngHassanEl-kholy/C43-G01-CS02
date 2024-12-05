@@ -1,4 +1,5 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.ComponentModel;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assignment
 {
@@ -122,7 +123,23 @@ namespace Assignment
 
             #endregion
 
+            #region Q11
+            //            11 - Write a program that takes the date from the user and displays it in various formats using string interpolation.
+            //Ex:
+            //Today’s date : 20 , 11 , 2001
+            //Today's date : 20 / 11 / 2001
+            //Today's date : 20 – 11 – 2001
+            //------------------------------------------------------------
+            //Console.WriteLine("Enter the date (yyyy/mm/dd)");
+            //string date = Console.ReadLine();
+            //DateOnly dateOnly =DateOnly.Parse(date);
+            //Console.WriteLine($"Today’s date : {dateOnly.Day} , {dateOnly.Month} , {dateOnly.Year}");
+            //Console.WriteLine($"Today’s date : {dateOnly.Day} / {dateOnly.Month} / {dateOnly.Year}");
+            //Console.WriteLine($"Today’s date : {dateOnly.Day} - {dateOnly.Month} - {dateOnly.Year}");
 
+
+
+            #endregion
 
 
 
