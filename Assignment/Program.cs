@@ -64,6 +64,19 @@
             // Number01=20      |   Number02=10
             #endregion
 
+            #region Q06
+            //6-Write C# program that Assigning one reference type variable to another
+            //and modifying the object through one variable and mention what will happen
+            //object obj01 = new object();
+            //obj01 = "First Object";
+            //object obj02 = new object();
+            //obj02 = obj01;
+            //// Now obj01 and obj02 refer to same object 
+            //obj02 = "Second Object";
+            ////create new object and obj02 still refer to "First Object"
+            //Console.WriteLine(obj01);
+            #endregion
+
 
 
 
