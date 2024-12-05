@@ -141,6 +141,12 @@ namespace Assignment
 
             #endregion
 
+            #region Q12
+            //DateTime date = new DateTime(2024, 6, 14); 
+            //Console.WriteLine($"The event is on {date:MM/dd/yyyy}");
+            // The Output is The event is on 06/14/2024 (C)
+            #endregion
+
 
 
         }
