@@ -75,6 +75,16 @@
             ////Explicit Casting
             #endregion
 
+            #region Convert&Parse&TryParse
+            ////is a class containing a set of methods used for casting 
+            //string age = "23";
+            //int Num = Convert.ToInt32(age);
+            ////Parse
+            //int Num2=int.Parse(age);
+            ////TryParse
+            //int.TryParse(age, out Num);  
+            ////Return True Or False
+            #endregion
         }
     }
 }
