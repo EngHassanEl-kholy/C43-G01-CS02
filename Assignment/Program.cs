@@ -147,6 +147,11 @@ namespace Assignment
             // The Output is The event is on 06/14/2024 (C)
             #endregion
 
+            #region Q13
+            //    f)	A value 1 will be assigned to d. 
+            //because !(30<20) ==> true ==> 1
+            #endregion
+
 
 
         }
