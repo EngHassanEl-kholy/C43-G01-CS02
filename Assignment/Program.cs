@@ -53,6 +53,17 @@
 
             #endregion
 
+            #region Q05
+            //5-Write C# program that Assigning one value type variable to another
+            //and modifying the value of one variable and mention what will happen
+            //int Number01 = 10;
+            //int Number02 = Number01;
+            ////Copy the Value of Number01 to Number02
+            //Number01 = 20;
+            //the value of Number01 changed to 20
+            // Number01=20      |   Number02=10
+            #endregion
+
 
 
 
