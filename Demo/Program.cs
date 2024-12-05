@@ -66,6 +66,15 @@
             //Console.WriteLine(Number);
             #endregion
 
+            #region Implicit&Explicit Casting
+            //int x = 12;
+            //long y = x;          //you don't need to cast
+            ////Implicit Casting
+            //long z = 1000;
+            //int w = (int) z;    //you need to cast
+            ////Explicit Casting
+            #endregion
+
         }
     }
 }
