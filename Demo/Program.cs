@@ -40,6 +40,22 @@
             //name2 still refer to same object ("Hassan")
             #endregion
 
+            #region Object
+            //object obj1 = new();
+            //object obj2 = new();
+            //obj1 = 10;  //Boxing
+            //obj2 = obj1; 
+            ////obj1 and obj2 refere to same object
+            //obj1 = 20;
+            ////obj1 refer to new object
+            ////object is a parent of all datatypes for 2 reasons
+            ////1- Replaces idea of Genereics 
+            ////2- Hava set of behavior should be existed with every datatype
+            //Console.WriteLine(obj1.ToString());
+            //Console.WriteLine(obj1.GetHashCode());
+            //Console.WriteLine(obj1.GetType());
+            //Console.WriteLine(obj1.Equals(obj2));
+            #endregion
 
 
         }
