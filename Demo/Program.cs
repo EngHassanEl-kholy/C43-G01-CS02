@@ -57,6 +57,14 @@
             //Console.WriteLine(obj1.Equals(obj2));
             #endregion
 
+            #region Fractions
+            //double Y = 23.3;
+            ////By Default fraction number be double
+            //float X = 23.3f;
+            //decimal M = 23.3m;
+            //long Number = 100_000_000;
+            //Console.WriteLine(Number);
+            #endregion
 
         }
     }
