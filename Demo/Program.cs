@@ -127,10 +127,23 @@
             ////Ternary
             //string msg;
             //msg = x > y ? "X is more than Y" : "Y is more than X";
-                
-              
+
+
             #endregion
 
+            #region Operator Priority
+            //double equation = (3 * 3) + 20 / 10 - 18 / 3;
+            ///*
+            // * 1- Prefix
+            // * 2- ()
+            // * 3- * / %
+            // * 4- + - 
+            // * ------------------
+            // * equation = 9 + 2 - 6 = 5
+            // */
+            //Console.WriteLine(equation);
+
+            #endregion
 
         }
     }
