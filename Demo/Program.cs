@@ -145,6 +145,18 @@
 
             #endregion
 
+            #region String Formatting
+            ////string is a array of characters so we can't modify it's content
+            //int x = 2, y = 3;
+            //string msg= "Sum " + x + "+" + y + "=" + (x + y);
+            ////Bad way because for each + will init new object 
+            //// String Composite
+            //msg=string.Format("Sum {0} + {1} = {2}", x, y,x+y);
+            ////string Interpolation
+            //msg = $"Sum {x} + {y} = {x + y}";
+
+            #endregion
+
         }
     }
 }
