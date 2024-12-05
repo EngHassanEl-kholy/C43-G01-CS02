@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-           
+            #region Comments
+            //Single Line Comment
+            /**
+             * 
+             * 
+             * 
+             * 
+             * 
+             * Multiline Comment*/
+            #endregion
+
+
         }
     }
 }
