@@ -157,6 +157,9 @@ namespace Assignment
             #endregion
 
 
+            #region Q15
+            //d)	7 7
+            #endregion
 
         }
     }
