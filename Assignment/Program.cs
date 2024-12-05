@@ -77,6 +77,16 @@
             //Console.WriteLine(obj01);
             #endregion
 
+            #region Q07
+            //7-Write C# program that take two string variables and print them as one variable 
+            //Console.Write("Enter first text : ");
+            //string text01 = Console.ReadLine();
+            //Console.Write("Enter second text : ");
+            //string text02 = Console.ReadLine();
+            //string allText = string.Format("{0}{1}", text01, text02);
+            //Console.WriteLine(allText);
+            #endregion
+
 
 
 
