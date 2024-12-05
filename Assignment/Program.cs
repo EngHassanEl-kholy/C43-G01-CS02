@@ -40,6 +40,22 @@
             //floating number must declare = > float num=Value F; to make the compiler understand that is float
             #endregion
 
+            #region Q04
+            ////4-Write C# program that Extract a substring from a given string.
+            //Console.Write("Enter Original String: ");
+            //string OriginalString=Console.ReadLine();
+            //Console.Write("Enter the starting index of the substring : ");
+            //int index=int.Parse(Console.ReadLine());
+            //Console.Write("Enter the length of the substring : ");
+            //int len=int.Parse(Console.ReadLine());
+            //Console.WriteLine($"Extracted substring : {OriginalString.Substring(index,len)}");
+
+
+            #endregion
+
+
+
+
         }
     }
 }
