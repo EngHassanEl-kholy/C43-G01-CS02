@@ -85,6 +85,19 @@
             //int.TryParse(age, out Num);  
             ////Return True Or False
             #endregion
+
+            #region Task
+            //Console.Write("Enter Your Name : ");
+            //string name = Console.ReadLine();
+            //int age;
+            //do
+            //{
+            //    Console.Write("Enter Your Age : ");
+            //}while(int.TryParse(Console.ReadLine(), out age)==false);
+            //Console.WriteLine($"Your name is {name}");
+            //Console.WriteLine($"Your age is {age}");
+            
+            #endregion
         }
     }
 }
