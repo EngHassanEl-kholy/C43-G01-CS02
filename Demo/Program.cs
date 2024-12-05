@@ -96,8 +96,42 @@
             //}while(int.TryParse(Console.ReadLine(), out age)==false);
             //Console.WriteLine($"Your name is {name}");
             //Console.WriteLine($"Your age is {age}");
-            
+
             #endregion
+
+            #region Operators
+            ////unary
+            //int x = 5, y = 10;
+            //x++;  //postfix
+            //++y; //prefix
+            ////binary
+            //int res;
+            //res = x + y;
+            //res = x * y;
+            //res = x - y;
+            //res = y / x;
+            //res = y % x;
+            ////Assignment
+            //x = 20;
+            //x += 1;
+            //x -= 1;
+            //x /= 2;
+            ////Logical
+            //Console.WriteLine(!true);       //false
+            //Console.WriteLine(false&&true); //false
+            //Console.WriteLine(false||true); //true
+            ////Bitwise
+            //Console.WriteLine(~0);   //1
+            //Console.WriteLine(1&0);  //0
+            //Console.WriteLine(1|0);  //1
+            ////Ternary
+            //string msg;
+            //msg = x > y ? "X is more than Y" : "Y is more than X";
+                
+              
+            #endregion
+
+
         }
     }
 }
