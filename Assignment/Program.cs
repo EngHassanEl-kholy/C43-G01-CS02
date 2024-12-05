@@ -152,6 +152,10 @@ namespace Assignment
             //because !(30<20) ==> true ==> 1
             #endregion
 
+            #region Q14
+            //d)	6 1
+            #endregion
+
 
 
         }
