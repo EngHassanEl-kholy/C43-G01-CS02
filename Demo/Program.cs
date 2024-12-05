@@ -21,6 +21,15 @@
             //int Number = 12;
             #endregion
 
+            #region Value Type
+            //int Num;
+            ////CLR will allocate 4 bytes at stack
+            //Num = 5;
+            //int X = Num;  //Pass Value Of Num = > x=5
+            //Num++;        // Num=6     X=5
+            #endregion
+
+
 
         }
     }
