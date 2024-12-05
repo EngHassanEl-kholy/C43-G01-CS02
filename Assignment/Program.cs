@@ -1,4 +1,6 @@
-﻿namespace Assignment
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace Assignment
 {
     class Program
     {
@@ -86,6 +88,20 @@
             //string allText = string.Format("{0}{1}", text01, text02);
             //Console.WriteLine(allText);
             #endregion
+
+            #region Q08
+            //8-	Write a program that calculates the simple interest given the principal amount, rate of interest, and time. The formula for simple interest is 
+            // Interest = (principal * rate * time) / 100
+            //Console.WriteLine("Enter the Principal : ");
+            //double Principal=Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("Enter the Rate : ");
+            //double Rate = Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("Enter the Time : ");
+            //double Time = Convert.ToDouble(Console.ReadLine());
+            //double Interest = (Principal * Rate * Time) / 100;
+            //Console.WriteLine($"Interest = {Interest}");
+            #endregion
+
 
 
 
